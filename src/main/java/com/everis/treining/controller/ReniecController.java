@@ -12,10 +12,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping(path = "/external/reniec")
 public class ReniecController {
 
-  @Value("${entityName}")
-  String entityName;
-  @Value("${success}")
-  boolean success;
+
+  String entityName = "Reniec";
+  boolean success = true;
 
   /**
    * Comment.
