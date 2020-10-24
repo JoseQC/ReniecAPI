@@ -1,0 +1,4 @@
+com\everis\treining\ReniecApiApplication.class
+com\everis\treining\controller\ReniecController.class
+com\everis\treining\entity\Reniec.class
+com\everis\treining\swagger\ConfigSwagger.class
